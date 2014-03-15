@@ -1,0 +1,90 @@
+Add Note	
+Already at furthest read location.	
+Beginning	Başlangıç
+Book Description	Kitap Tanımı
+Buy This Book Now	Bu Kitabı Satın Al
+Cancel	İptal#or#İptal Et
+Close	İptal#or#Kapat
+Contrast	
+Cover	Kapak
+Darkest	
+Delete Note	
+Delete	Sil
+Edit Note	
+End	Son
+Enter a location ({0} - {1})	
+Enter a page (1 - {0}) or location ({1} - {2})	
+Enter a page (1 - {0})	
+Enter a page ({0}) or location ({1} - {2})	
+Enter a page ({0})	
+Enter a page or location ({1} - {2})	
+Enter a page	
+Enter password: 	
+Fonts	Yazı Tipleri
+Go To	Git#or#Gİt
+Go to Page or Location	
+Go to...	Git...
+Highlight	
+Incorrect Password	
+Incorrect password. Please try again.	
+Lightest	
+Line spacing	
+Loc {0} of {1}	
+Loc {0}	
+Location	Konum
+Lock Rotation	
+Low Memory	
+Margins	
+More Options	
+More	
+Normal	
+Note	Not
+PDF Display Settings	
+Page 	
+Page or Location	Sayfa veya Konum
+Page {0} of {1}	
+Page {0}	Sayfa {0}
+Password-Protected	
+Publisher Font	
+Retrieving furthest page read...	
+Save	Kaydet#or#Kayıt Et
+Settings	Ayarlar
+Share	Paylaş
+Shared Notes & Highlights	
+Shop in Kindle Store	Kindle Mağazında Alışveriş
+Submit	Onayla
+Sync Results	
+Sync to Furthest Page Read	
+Sync	
+Table of Contents	İçindekiler
+Table of Contents...	
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
+This PDF is password-protected.	
+To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	
+Unable to Sync	Senkronizasyon Yapılamadı
+Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	
+Unlock Rotation	
+View Note	
+View in Store	
+You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	
+You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book across all your devices. Go to the furthest place read?	
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
+You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
+You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
+You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	
+You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	
+You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
+You are currently on page {0}. You have read further than this page across all your devices. Go to the furthest place read?	
+darker	
+darkest	
+default	varsayılan
+lighter	
+lightest	
+on {7,date,long}	
+today	
+yesterday	

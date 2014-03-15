@@ -1,0 +1,8 @@
+Add keyboards for different languages.	Farklı diller için klavyeler ekleyin.
+Dictionaries	Sözlükler
+Keyboards	Klavye#or#Klavyeler
+Language and Dictionaries	
+Language	Dil
+Set the default dictionary for each language.	
+Set the language on your Kindle.	
+{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	

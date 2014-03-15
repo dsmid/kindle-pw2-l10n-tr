@@ -1,0 +1,7 @@
+#!/bin/bash
+
+source ../config
+
+recode -f utf8..flat < README > $README.txt
+zip kindle-5.4-jailbreak.zip Update_jb_\$\(cd\ mnt\ \&\&\ cd\ us\ \&\&\ sh\ jb.sh\).bin bridge.sh $README.txt jb.sh
+rm -f $README.txt

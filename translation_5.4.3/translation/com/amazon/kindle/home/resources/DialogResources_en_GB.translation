@@ -1,0 +1,8 @@
+Author	Yazar
+Collection Name	Koleksiyon ismi#or#Koleksiyon İsmi
+Edit Kana	
+Edit Pronunciation	
+The collection name that you entered already exists. Please enter a different name.	Bu isimde bir koleksiyon zaten var. Lütfen faklı bir isim giriniz.
+Title Pronunciation	
+Title	Başlık
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	
