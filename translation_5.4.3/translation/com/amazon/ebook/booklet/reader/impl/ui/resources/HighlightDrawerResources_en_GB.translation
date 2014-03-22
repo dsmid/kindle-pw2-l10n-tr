@@ -1,2 +1,2 @@
-{0} highlighters	{0} işaretleyiciler
-{1}, {0,plural,=0 {no others} one {1 other} other {{0,number,integer} others}}	
+{0} highlighters	{0} Vurgulama
+{1}, {0,plural,=0 {no others} one {1 other} other {{0,number,integer} others}}	{1}, {0,plural,=0 {başka yok} one {1 diğer} other {{0,number,integer} diğer}}
